@@ -1,2 +1,2 @@
 # ADDIE-Model
-Presentation made with Elza, Brita, and Renāte. 
+Presentation made by our group (Santa, Elza, Brita, and Renāte). 
